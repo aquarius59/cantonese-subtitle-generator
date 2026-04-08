@@ -174,9 +174,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) - 开源泛CJK字体
 - [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) - 霞鹜文楷字体
 
-## 📮 联系方式
-
-如有问题或建议，欢迎通过 GitHub Issues 联系。
 
 ---
 
