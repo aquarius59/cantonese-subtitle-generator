@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 
-> 🎬 专为低配置电脑优化的粤语歌词/字幕视频生成工具
+> 🎬 专为低配置电脑优化的粤语歌词/字幕视频生成工具（默认针对1280x720分辨率的视频）
 
 ## ✨ 特性
 
