@@ -134,15 +134,7 @@ self.min_align_ratio = 0.5      # 左对齐阈值
 | 显卡 | 核显即可 | 支持 Intel QSV/NVIDIA NVENC |
 | 存储 | 10GB 可用空间 | SSD |
 
-## 🤝 贡献
 
-欢迎提交 Issue 和 Pull Request！
-
-### 待优化项
-- [ ] 支持更多字幕格式（ASS, VTT）
-- [ ] 添加更多多音字规则
-- [ ] 支持 GPU 加速渲染
-- [ ] 图形界面（GUI）版本
 
 ## 📄 许可证
 
